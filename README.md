@@ -1,1 +1,2 @@
 # EcoRate-IOS
+EcoRate is a collaborative research project by our team aimed at understanding and evaluating the eco-design of mobile applications. It explores how mobile apps impact the environment across three core pillars—device durability, energy sobriety, and responsible design. While this repo doesn't contain application code, it documents our discoveries, assessment criteria, and analysis methodology to guide sustainable development practices and promote environmentally-conscious mobile experiences.
